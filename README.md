@@ -4,7 +4,10 @@ solucoes feitas para funcionar da primeira maneira pensada e sem retrabalho
 
 - day 01 
 
-resolvido duas etapas
+resolvido as duas etapas
 
 - day 02
 
+resolvido as duas etapas
+
+- day 03
